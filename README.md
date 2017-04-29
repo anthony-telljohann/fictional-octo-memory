@@ -8,6 +8,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [KeepingYouAwake](#keepingyouawake)
 - [Slack](#slack)
 - [Spectacle](#spectacle)
+- [Spotify](#spotify)
 - [Sublime Text](#sublime-text)
 - [VirtualBox](#virtualbox)
 
@@ -51,6 +52,13 @@ Easily organize windows without using a mouse.
 ```sh
 # install Spectacle
 brew cask install spectacle
+```
+
+### Spotify
+Spotify is a digital music service that gives you access to millions of songs.
+```sh
+# install Spotify
+brew cask install spotify
 ```
 
 ### Sublime Text
