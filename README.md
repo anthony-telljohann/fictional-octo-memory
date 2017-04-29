@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Atom](#atom)
+- [Firefox](#firefox)
 - [Git](#git)
 - [git-flow](#git-flow)
 - [Google Chrome](#google-chrome)
@@ -37,6 +38,14 @@ The hackable text editor.
 # install Atom
 brew cask install atom
 ```
+
+### Firefox
+Firefox Web Browser: Fast. Private. Safe.
+```sh
+# install Firefox
+brew cask install firefox
+```
+
 
 ### Git
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
