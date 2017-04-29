@@ -4,6 +4,7 @@ Contains commands to install my favorite applications and tools on OSX.
 ## Table of Contents
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
+- [Git](#git)
 - [Google Chrome](#google-chrome)
 - [KeepingYouAwake](#keepingyouawake)
 - [Node](#node)
@@ -25,6 +26,13 @@ Homebrew-Cask extends [Homebrew](brew.sh "Homebrew") and brings its elegance, si
 ```sh
 # install Homebrew-Cask
 brew tap caskroom/cask
+```
+
+### Git
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+```sh
+# install Git
+brew install git
 ```
 
 ### Google Chrome
