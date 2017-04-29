@@ -6,6 +6,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew-Cask](#homebrew-cask)
 - [Google Chrome](#google-chrome)
 - [KeepingYouAwake](#keepingyouawake)
+- [Node](#node)
 - [Slack](#slack)
 - [Spectacle](#spectacle)
 - [Spotify](#spotify)
@@ -38,6 +39,13 @@ KeepingYouAwake is a small menu bar utility for macOS Yosemite (Version 10.10) a
 ```sh
 # install KeepingYouAwake
 brew cask install keepingyouawake
+```
+
+### Node
+Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+```sh
+# install Node
+brew install node
 ```
 
 ### Slack
