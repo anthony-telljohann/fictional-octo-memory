@@ -4,6 +4,7 @@ Contains commands to install my favorite applications and tools on OSX.
 ## Table of Contents
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
+- [Atom](#atom)
 - [Git](#git)
 - [git-flow](#git-flow)
 - [Google Chrome](#google-chrome)
@@ -27,6 +28,13 @@ Homebrew-Cask extends [Homebrew](brew.sh "Homebrew") and brings its elegance, si
 ```sh
 # install Homebrew-Cask
 brew tap caskroom/cask
+```
+
+### Atom
+The hackable text editor.
+```sh
+# install Atom
+brew cask install atom
 ```
 
 ### Git
