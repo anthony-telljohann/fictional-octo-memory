@@ -8,6 +8,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Git](#git)
 - [git-flow](#git-flow)
 - [Google Chrome](#google-chrome)
+- [Jiggler](#jiggler)
 - [KeepingYouAwake](#keepingyouawake)
 - [Node](#node)
 - [Slack](#slack)
@@ -56,6 +57,13 @@ A fast, secure, and free web browser built for the modern web.
 ```sh
 # install Google Chrome
 brew cask install google-chrome
+```
+
+### Jiggler
+Jiggler is a little freeware app with one purpose: to keep your Mac awake.
+```sh
+# install Jiggler
+brew cask install jiggler
 ```
 
 ### KeepingYouAwake
