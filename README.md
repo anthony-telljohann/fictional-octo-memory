@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Git](#git)
+- [git-flow](#git-flow)
 - [Google Chrome](#google-chrome)
 - [KeepingYouAwake](#keepingyouawake)
 - [Node](#node)
@@ -33,6 +34,13 @@ Git is a free and open source distributed version control system designed to han
 ```sh
 # install Git
 brew install git
+```
+
+### git-flow
+A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/posts/a-successful-git-branching-model/).
+```sh
+# install git-flow
+brew install git-flow
 ```
 
 ### Google Chrome
