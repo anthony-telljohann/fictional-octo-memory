@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Google Chrome](#google-chrome)
+- [VirtualBox](#virtualbox)
 
 ### Homebrew
 The missing package manager for macOS.
@@ -25,4 +26,11 @@ A fast, secure, and free web browser built for the modern web.
 ```sh
 # install Google Chrome
 brew cask install google-chrome
+```
+
+### VirtualBox
+VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
+```sh
+# install VirtualBox
+brew cask install virtualbox
 ```
