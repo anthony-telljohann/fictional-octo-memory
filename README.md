@@ -4,6 +4,7 @@ Contains commands to install my favorite applications and tools on OSX.
 ## Table of Contents
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
+- [Google Chrome](#google-chrome)
 
 ### Homebrew
 The missing package manager for macOS.
@@ -17,4 +18,11 @@ Homebrew-Cask extends [Homebrew](brew.sh "Homebrew") and brings its elegance, si
 ```sh
 # install Homebrew-Cask
 brew tap caskroom/cask
+```
+
+### Google Chrome
+A fast, secure, and free web browser built for the modern web.
+```sh
+# install Google Chrome
+brew cask install google-chrome
 ```
