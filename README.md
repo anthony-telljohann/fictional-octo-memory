@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Atom](#atom)
+- [Bash](#bash)
 - [Firefox](#firefox)
 - [Git](#git)
 - [git-flow](#git-flow)
@@ -37,6 +38,13 @@ The hackable text editor.
 ```sh
 # install Atom
 brew cask install atom
+```
+
+### Bash
+Bash is the GNU Project's shell. Bash is the Bourne Again SHell.
+```sh
+# install Bash
+brew install bash
 ```
 
 ### Firefox
