@@ -6,6 +6,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew-Cask](#homebrew-cask)
 - [Google Chrome](#google-chrome)
 - [Slack](#slack)
+- [Spectacle](#spectacle)
 - [Sublime Text](#sublime-text)
 - [VirtualBox](#virtualbox)
 
@@ -35,6 +36,13 @@ Slack brings all your communication together in one place. It's real-time messag
 ```sh
 # install Slack
 brew cask install slack
+```
+
+### Spectacle
+Easily organize windows without using a mouse.
+```sh
+# install Spectacle
+brew cask install spectacle
 ```
 
 ### Sublime Text
