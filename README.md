@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Google Chrome](#google-chrome)
+- [Slack](#slack)
 - [VirtualBox](#virtualbox)
 
 ### Homebrew
@@ -26,6 +27,13 @@ A fast, secure, and free web browser built for the modern web.
 ```sh
 # install Google Chrome
 brew cask install google-chrome
+```
+
+### Slack
+Slack brings all your communication together in one place. It's real-time messaging, archiving and search for modern teams.
+```sh
+# install Slack
+brew cask install slack
 ```
 
 ### VirtualBox
