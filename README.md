@@ -5,6 +5,7 @@ Contains commands to install my favorite applications and tools on OSX.
 - [Homebrew](#homebrew)
 - [Homebrew-Cask](#homebrew-cask)
 - [Google Chrome](#google-chrome)
+- [KeepingYouAwake](#keepingyouawake)
 - [Slack](#slack)
 - [Spectacle](#spectacle)
 - [Sublime Text](#sublime-text)
@@ -29,6 +30,13 @@ A fast, secure, and free web browser built for the modern web.
 ```sh
 # install Google Chrome
 brew cask install google-chrome
+```
+
+### KeepingYouAwake
+KeepingYouAwake is a small menu bar utility for macOS Yosemite (Version 10.10) and newer that can prevent your Mac from entering sleep mode for a predefined duration or as long as it is activated.
+```sh
+# install KeepingYouAwake
+brew cask install keepingyouawake
 ```
 
 ### Slack
