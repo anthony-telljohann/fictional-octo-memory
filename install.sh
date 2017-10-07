@@ -12,6 +12,7 @@ brew cask install brave
 brew cask install firefox
 brew cask install google-chrome
 brew cask install jiggler
+brew cask install keepingyouawake
 
 # install packages
 brew install git
