@@ -10,6 +10,7 @@ brew tap caskroom/fonts
 brew cask install atom
 brew cask install brave
 brew cask install firefox
+brew cask install google-chrome
 
 # install packages
 brew install git
