@@ -16,3 +16,4 @@ brew cask install keepingyouawake
 
 # install packages
 brew install git
+brew install nvm
