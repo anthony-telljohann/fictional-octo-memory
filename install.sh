@@ -3,3 +3,6 @@
 
 # tap cask
 brew tap caskroom/cask
+
+# tap fonts
+brew tap caskroom/fonts
