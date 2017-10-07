@@ -14,3 +14,4 @@ brew cask install google-chrome
 
 # install packages
 brew install git
+brew cask install jiggler
