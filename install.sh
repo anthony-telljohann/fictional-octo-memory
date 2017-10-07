@@ -11,7 +11,7 @@ brew cask install atom
 brew cask install brave
 brew cask install firefox
 brew cask install google-chrome
+brew cask install jiggler
 
 # install packages
 brew install git
-brew cask install jiggler
