@@ -8,3 +8,4 @@ brew tap caskroom/fonts
 
 # install apps
 brew cask install atom
+brew cask install brave
