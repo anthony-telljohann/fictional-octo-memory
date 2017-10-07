@@ -14,6 +14,7 @@ brew cask install google-chrome
 brew cask install jiggler
 brew cask install keepingyouawake
 brew cask install slack
+brew cask install spectacle
 
 # install packages
 brew install git
