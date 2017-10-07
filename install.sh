@@ -13,6 +13,7 @@ brew cask install firefox
 brew cask install google-chrome
 brew cask install jiggler
 brew cask install keepingyouawake
+brew cask install slack
 
 # install packages
 brew install git
