@@ -10,6 +10,7 @@ brew tap homebrew/services
 # install apps
 brew cask install atom
 brew cask install brave
+brew cask install cakebrew
 brew cask install firefox
 brew cask install flux
 brew cask install google-chrome
