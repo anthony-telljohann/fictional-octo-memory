@@ -21,3 +21,4 @@ brew cask install spectacle
 brew install git
 brew install nvm
 brew install pre-commit
+brew install yarn
