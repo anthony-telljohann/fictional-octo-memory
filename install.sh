@@ -22,6 +22,7 @@ brew cask install spotify
 # install packages
 brew install git
 brew install nvm
+brew install pass
 brew install pre-commit
 brew install tor
 brew install yarn
