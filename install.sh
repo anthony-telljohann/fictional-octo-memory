@@ -5,6 +5,7 @@
 brew tap caskroom/cask
 brew tap caskroom/drivers
 brew tap caskroom/fonts
+brew tap homebrew/services
 
 # install apps
 brew cask install atom
