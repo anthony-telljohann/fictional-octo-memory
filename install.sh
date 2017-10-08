@@ -20,3 +20,4 @@ brew cask install spectacle
 # install packages
 brew install git
 brew install nvm
+brew install pre-commit
