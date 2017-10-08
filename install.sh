@@ -16,6 +16,7 @@ brew cask install jiggler
 brew cask install keepingyouawake
 brew cask install slack
 brew cask install spectacle
+brew cask install spotify
 
 # install packages
 brew install git
