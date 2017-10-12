@@ -26,6 +26,7 @@ brew install git
 brew install nvm
 brew install pass
 brew install pre-commit
+brew install rcm
 brew install the_silver_searcher
 brew install tor
 brew install yarn
