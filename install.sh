@@ -28,5 +28,4 @@ brew install pass
 brew install pre-commit
 brew install the_silver_searcher
 brew install tor
-brew install yadm
 brew install yarn
