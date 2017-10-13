@@ -29,4 +29,4 @@ brew install pre-commit
 brew install rcm
 brew install the_silver_searcher
 brew install tor
-brew install yarn
+brew install yarn --without-node
